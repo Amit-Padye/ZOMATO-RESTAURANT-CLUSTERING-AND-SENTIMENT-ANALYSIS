@@ -2,7 +2,7 @@
 
 In this project out task is to analyze the sentiments of the reviews given by the customer in the data and make useful conclusions in the form of visualizations and cluster the restaurants into segments.To help the businesses to understand customers feedback and customer needs.
 
-## Datasetinfo:
+## Dataset info:
 
 Two data sets are given:
 * **Zomato Restaurant names and Metadata** 
