@@ -30,6 +30,9 @@ Two data sets are given:
 
 * The best model we found out is Logistic regression for sentiment analysis.
 
+## Future Scope:
+Project work will help restaurant to give better experience to the user and it also helps in understanding customer opinion about the restaurant. To get more accurate result we can use word to vector embedding technique and sequential models. 
+
 
 
 
