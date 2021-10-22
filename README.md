@@ -23,18 +23,13 @@ Two data sets are given:
  
  * Random Forest 
  
- ## Model used for clustering:
- 
- * K-Means
- * Hierarchical clustering 
+
 
 
 ## Conclusions:
 
 * The best model we found out is Logistic regression for sentiment analysis.
-* We can say that restaurants that are open most of the time are relatively costlier.
-* Getting 3 optimum number of  clusters by using elbow analysis and 4 number of optimum clusters by using silhouette coefficients.
-* In our case 4 clusters were best to cluster the data.
+
 
 
 
